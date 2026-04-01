@@ -1,6 +1,6 @@
 ---
 name: forward-runner
-model: opus
+model: sonnet
 description: Forward推論を実行するサブエージェント。skills-tuning の forward ステップから呼ばれ、スキルの指示に従って input.md から出力を生成する。
 tools: Read, Write, Bash
 hooks:
