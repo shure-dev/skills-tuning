@@ -1,5 +1,7 @@
 # Skills Tuning
 
+<img width="2144" height="1280" alt="Skills Tuning Overview" src="https://github.com/user-attachments/assets/09914772-6019-4951-8636-89425a464f49" />
+
 Agent Skillsを、自動チューニングする実験的フレームワークです。
 
 ## 試し方
